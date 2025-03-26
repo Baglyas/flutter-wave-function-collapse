@@ -14,9 +14,9 @@ This project implements **Wave Function Collapse (WFC) for procedural map genera
 ---
 
 ## **🛠️ Tech Stack**  
-- **Language:** _[Specify language used, e.g., Dart, Python, C++]_  
+- **Language:** _Dart_  
 - **Algorithm:** **Wave Function Collapse** (Overlapping/Tile-based)  
-- **Rendering:** _[Specify if you’re using a game engine like Unity, Godot, or a custom solution]_  
+- **Framework:** _Flutter_  
 
 ---
 
