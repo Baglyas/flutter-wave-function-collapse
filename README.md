@@ -24,7 +24,3 @@ This project implements **Wave Function Collapse (WFC) for procedural map genera
 This implementation aims to explore **procedural generation principles**, improving **level design automation** while maintaining logical map structures.  
 
 The goal is to generate **high-quality maps where paths, roads, and key elements connect properly**, ensuring a playable environment.  
-
----
-
-Would you like me to add sections for installation, usage, or a roadmap? 🚀  
